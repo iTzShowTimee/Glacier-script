@@ -2,9 +2,9 @@
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
-CONFIG_FILE='glpm2.conf' 
-CONFIGFOLDER='/root/.glpm2'   
-COIN_DAEMON='glpmd' 
+CONFIG_FILE='GLPM2.conf' 
+CONFIGFOLDER='/root/.GLPM2'   
+COIN_DAEMON='GLPMd' 
 COIN_CLI='GLPM-cli'
 COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/GLPMCORE/GLPM/releases/download/v1.0/v13-glpm.tar.gz'
@@ -241,8 +241,8 @@ function important_information() {
  echo -e "${CYAN}Ensure VPS wallet is fully ${RED}SYNCED ${CYAN}with the blockchain ${RED}BEFORE STARTING ALIAS${NC}."
  echo -e "${BLUE}================================================================================================================================${NC}"
  echo -e "${GREEN}Usage Commands.${NC}"
- echo -e "${GREEN}GLPM-cli getinfo. ${CYAN} Compare the Blocks line with the explorer to ensure the VPS is synced${NC}"
- echo -e "${GREEN}GLPM-cli masternode status${NC}"
+ echo -e "${GREEN}add-cli getinfo. ${CYAN} Compare the Blocks line with the explorer to ensure the VPS is synced${NC}"
+ echo -e "${GREEN}add-cli masternode status${NC}"
  echo -e "${BLUE}================================================================================================================================${NC}"
  echo -e "${GREEN} 
 }
