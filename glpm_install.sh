@@ -1,6 +1,6 @@
 #!/bin/bash
-
 TMP_FOLDER=$(mktemp -d)
+
 CONFIG_FILE='GLPM2.conf'
 CONFIGFOLDER='/root/.GLPM2'
 COIN_DAEMON='/usr/local/bin/GLPMd'
