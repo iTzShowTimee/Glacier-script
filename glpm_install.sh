@@ -241,8 +241,8 @@ function important_information() {
  echo -e "${CYAN}Ensure VPS wallet is fully ${RED}SYNCED ${CYAN}with the blockchain ${RED}BEFORE STARTING ALIAS${NC}."
  echo -e "${BLUE}================================================================================================================================${NC}"
  echo -e "${GREEN}Usage Commands.${NC}"
- echo -e "${GREEN}add-cli getinfo. ${CYAN} Compare the Blocks line with the explorer to ensure the VPS is synced${NC}"
- echo -e "${GREEN}add-cli masternode status${NC}"
+ echo -e "${GREEN}GLPM-cli getinfo. ${CYAN} Compare the Blocks line with the explorer to ensure the VPS is synced${NC}"
+ echo -e "${GREEN}GLPM-cli masternode status${NC}"
  echo -e "${BLUE}================================================================================================================================${NC}"
  echo -e "${GREEN} 
 }
