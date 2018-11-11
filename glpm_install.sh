@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
