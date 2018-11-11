@@ -107,13 +107,13 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***Step 7***
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 
-`wget -N https://raw.githubusercontent.com/SphinxCrypto/AD-Node-Script/master/add_install.sh`
+`wget -N https://raw.githubusercontent.com/iTzShowTimee/Glacier-script/master/glpm_install.sh`
 ***
 
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`bash add_install.sh`
+`bash glpm_install.sh`
 
 ![Example-Bash](https://i.imgur.com/JDOBjgR.png)
 
