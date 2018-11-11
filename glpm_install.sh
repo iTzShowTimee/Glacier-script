@@ -5,7 +5,6 @@ CONFIG_FILE='GLMP2.conf'
 CONFIGFOLDER='/root/.GLPM2'   
 COIN_DAEMON='/usr/local/bin/GLPMd'
 COIN_CLI='/usr/local/bin/GLPM-cli'
-COIN_PATH='/usr/local/bin/'
 COIN_REPO='https://github.com/GLPMCORE/GLPM/releases/download/v1.0/v13-glpm.tar.gz'
 COIN_NAME='GLMP'
 COIN_PORT=31999
