@@ -129,10 +129,11 @@ If you require further assistance contact the support team @ [Discord](https://d
 ![Example-installing](https://i.imgur.com/sLvWd1S.png)
 ***
 
+
 ***Step 11***
 * You will now see all of the relevant information for your server.
 * Keep this terminal open as we will need the info for the wallet setup.
-![Example-installing](https://i.imgur.com/WOf2RLY.png)
+![Example-installing](https://i.imgur.com/Q87LcnW.png)
 ***
 
 ## Section D: Preparing the Local wallet
