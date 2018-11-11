@@ -2,9 +2,9 @@
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
-CONFIG_FILE='GLPM2.conf' 
-CONFIGFOLDER='/root/.GLPM2'   
-COIN_DAEMON='GLPMd' 
+CONFIG_FILE='glpm2.conf' 
+CONFIGFOLDER='/root/.glpm2'   
+COIN_DAEMON='glpmd' 
 COIN_CLI='GLPM-cli'
 COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/GLPMCORE/GLPM/releases/download/v1.0/v13-glpm.tar.gz'
