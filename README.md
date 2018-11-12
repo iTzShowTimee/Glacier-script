@@ -1,8 +1,8 @@
 
 ![Example-Location](https://media.discordapp.net/attachments/508775388961570836/508775906660057098/GlacierPlatform.png?width=714&height=637)
 
-# AD Node Masternode Setup Guide (Ubuntu 16.04)
-This guide will assist you in setting up a Ad Node Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
+# Glacier Masternode Setup Guide (Ubuntu 16.04)
+This guide will assist you in setting up a Glacier Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
 If you require further assistance contact the support team @ [Discord](https://discord.gg/v7ppsTc)
 ***
